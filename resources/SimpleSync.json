@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/LambentLight/Schemas/master/resource_extended.json",
+    "name": "SimpleSync",
+    "author": "justalemon",
+    "target": 1,
+    "destination": "simplesync",
+    "versions": [
+        {
+            "version": "1.0",
+            "download": "https://github.com/justalemon/SimpleSync/releases/download/v1.0/SimpleSync.7z"
+        },
+        {
+            "version": "1.1",
+            "download": "https://github.com/justalemon/SimpleSync/releases/download/v1.1/SimpleSync.7z"
+        }
+    ],
+    "github": {
+        "owner": "justalemon",
+        "repo": "SimpleSync",
+        "patches": {},
+        "releases": true,
+        "commmits": 0
+    }
+}

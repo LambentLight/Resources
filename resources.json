@@ -1,0 +1,10 @@
+{
+    "$schema": "https://raw.githubusercontent.com/LambentLight/Schemas/master/resource_basics.json",
+    "resources": [
+        {
+            "name": "SimpleSync",
+            "author": "justalemon",
+            "target": 1
+        }
+    ]
+}
